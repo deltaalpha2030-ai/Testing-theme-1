@@ -1,6 +1,6 @@
 {
-    "name": "Yuichi Theme",
-    "description": "A custom dark theme made by Yuichi.",
+    "name": "Yuichi Image Theme",
+    "description": "Yuichi theme with a custom background.",
     "authors": [
         {
             "name": "Yuichi"
@@ -18,5 +18,6 @@
         "BRAND_500": "#8A5CFF",
         "PRIMARY_500": "#8A5CFF"
     },
+    "background": "https://i.imgur.com/hOip8tu.png",
     "spec": 2
 }
