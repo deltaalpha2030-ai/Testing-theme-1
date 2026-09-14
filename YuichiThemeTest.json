@@ -1,0 +1,22 @@
+{
+    "name": "Yuichi Theme",
+    "description": "A custom dark theme made by Yuichi.",
+    "authors": [
+        {
+            "name": "Yuichi"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#101014"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#18181F"
+        ]
+    },
+    "rawColors": {
+        "BRAND_500": "#8A5CFF",
+        "PRIMARY_500": "#8A5CFF"
+    },
+    "spec": 2
+}
