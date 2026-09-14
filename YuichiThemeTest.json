@@ -1,6 +1,6 @@
 {
-    "name": "Yuichi Image Theme",
-    "description": "Yuichi theme with a custom background.",
+    "name": "Yuichi Blue Cyan",
+    "description": "A dark blue and cyan theme made by Yuichi.",
     "authors": [
         {
             "name": "Yuichi"
@@ -8,15 +8,15 @@
     ],
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
-            "#101014"
+            "#07111F"
         ],
         "BACKGROUND_SECONDARY": [
-            "#18181F"
+            "#0B1C30"
         ]
     },
     "rawColors": {
-        "BRAND_500": "#8A5CFF",
-        "PRIMARY_500": "#8A5CFF"
+        "BRAND_500": "#00D9FF",
+        "PRIMARY_500": "#008CFF"
     },
     "background": "https://i.imgur.com/hOip8tu.png",
     "spec": 2
